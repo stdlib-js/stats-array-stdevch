@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-08)
+## Unreleased (2025-07-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8c107ba`](https://github.com/stdlib-js/stdlib/commit/8c107ba16d7d2b6e4a37fc8fbbdf54553385414c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7276cf7`](https://github.com/stdlib-js/stdlib/commit/7276cf782ac47f8daae9817a2ce758e479f67bff) - **docs:** fix typo _(by Philipp Burckhardt)_
 -   [`267cac8`](https://github.com/stdlib-js/stdlib/commit/267cac8058eb566a4478642f563a96ea885fc6b3) - **docs:** add missing references and add missing notes _(by Athan Reines)_
 -   [`d43d8be`](https://github.com/stdlib-js/stdlib/commit/d43d8be018d9b1fab2253628a24c50422afbad56) - **feat:** add `stats/array/stdevch` [(#7580)](https://github.com/stdlib-js/stdlib/pull/7580) _(by Gururaj Gurram, Athan Reines)_
