@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5e973f5`](https://github.com/stdlib-js/stdlib/commit/5e973f5a2ee811f5b21a6ed17d5bb6ddb851846e) - **bench:** refactor to use string interpolation in `stats/array/stdevch` [(#10790)](https://github.com/stdlib-js/stdlib/pull/10790) _(by Aniket Sonawane)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aniket Sonawane
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
