@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-06)
+## Unreleased (2026-05-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fd45d7b`](https://github.com/stdlib-js/stdlib/commit/fd45d7bc9b9f269802566772fd992b24df0725e7) - **docs:** align JSDoc throws ordering across `stats/array` outliers [(#11838)](https://github.com/stdlib-js/stdlib/pull/11838) _(by Philipp Burckhardt)_
 -   [`5e973f5`](https://github.com/stdlib-js/stdlib/commit/5e973f5a2ee811f5b21a6ed17d5bb6ddb851846e) - **bench:** refactor to use string interpolation in `stats/array/stdevch` [(#10790)](https://github.com/stdlib-js/stdlib/pull/10790) _(by Aniket Sonawane)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aniket Sonawane
+-   Philipp Burckhardt
 
 </section>
 
